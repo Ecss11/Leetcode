@@ -12,4 +12,5 @@ add_executable(Leetcode
         ProductOfArrayExceptSelf.cpp
         MaximumSubarray.cpp
         ReverseLinkedList.cpp
+        ValidParentheses.cpp
 )
